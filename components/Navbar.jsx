@@ -132,8 +132,8 @@ const Navbar = () => {
                 <AiOutlineClose />
               </div>
             </div>
-            <div className='border-b border-gray-300 my-4'>
-              <p className='w-[85%] md:w-[90%] py-4'>
+            <div className='border-b border-gray-300 my-1'>
+              <p className='w-[85%] md:w-[90%] py-1'>
                 Let&#39;s build something legendary together
               </p>
             </div>
@@ -171,13 +171,13 @@ const Navbar = () => {
                 </li>
               </Link>
             </ul>
-            <div className='pt-40'>
+            <div className='pt-40 text-align-center'>
               <p className='uppercase tracking-widest text-[#3b5998]'>
                 Let&#39;s Connect
               </p>
               <div className='flex items-center justify-between my-4 w-full sm:w-[80%]'>
                 <a
-                  href='https://www.linkedin.com/in/clint-briley-50056920a/'
+                  href='https://www.linkedin.com/in/Abdul-Rahman-Malak-68a540263'
                   target='_blank'
                   rel='noreferrer'
                 >
@@ -186,7 +186,7 @@ const Navbar = () => {
                   </div>
                 </a>
                 <a
-                  href='https://github.com/abed2k4'
+                  href='https://github.com/abedmalak'
                   target='_blank'
                   rel='noreferrer'
                 >
