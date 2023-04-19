@@ -92,7 +92,7 @@ const resume = () => {
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold italic'>
-            INFINITE TECH
+            Sultan Steel
             </span>
             <span className='px-2'>|</span>Dallas, TX
           </p>
