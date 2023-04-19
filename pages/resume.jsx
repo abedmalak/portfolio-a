@@ -6,7 +6,7 @@ const resume = () => {
   return (
     <>
       <Head>
-        <title>Clint | Resume</title>
+        <title> Abdul Rahman | Resume</title>
         <meta
           name='description'
           content='I’m a front-end web developer specializing in building (and occasionally designing) exceptional digital experiences.'
@@ -17,7 +17,7 @@ const resume = () => {
       <div className='max-w-[940px] mx-auto p-2 pt-[120px]'>
         <h2 className='text-center'>Resume</h2>
         <div className='bg-[#d0d4d6] my-4 p-4 w-full flex justify-between items-center'>
-          <h2 className='text-center'>Clint Briley</h2>
+          <h2 className='text-center'>ABDUL RAHMAN MALAK</h2>
           <div className='flex'>
             <a
               href='https://www.linkedin.com/in/Abdul-Rahman-Malak-68a540263'
@@ -66,7 +66,7 @@ const resume = () => {
           <p className='py-2'>
             <span className='font-bold'>Technical Skills</span>
             <span className='px-2'>|</span>Front-End Web Developer
-            <span className='px-2'>|</span> HTML
+            <span className='px-2'>|</span>Backend developer
             <span className='px-2'>|</span>CSS
             <span className='px-2'>|</span>Javascript
             <span className='px-2'>|</span>React
@@ -76,12 +76,18 @@ const resume = () => {
             <span className='px-2'>|</span>Redux
             <span className='px-2'>|</span>Tailwind
             <span className='px-2'>|</span> Firebase
+            <span className='px-2'>|</span> Superbase
+            <span className='px-2'>|</span> MongoDB
+            <span className='px-2'>|</span> Express
+            <span className='px-2'>|</span> Git version control
+            <span className='px-2'>|</span> Java
             <span className='px-2'>|</span> RESTAPI
+            <span className='px-2'>|</span> Material UI
+
           </p>
           <p className='py-2'>
-            <span className='font-bold'>Amazon Web Services</span>
-            <span className='px-2'>|</span>Amazon Web Services Cloud
-            Practitioner
+            <span className='font-bold'>A</span>
+            <span className='px-2'>|</span>A
           </p>
         </div>
 
@@ -94,9 +100,9 @@ const resume = () => {
             <span className='font-bold italic'>
             Sultan Steel
             </span>
-            <span className='px-2'>|</span>Dallas, TX
+            <span className='px-2'></span>
           </p>
-          <p className='py-1 italic'>Front End Web Developer & Web Master (2013 - Current)</p>
+          <p className='py-1 italic'>Software developer</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
               Ensured comprehensive mobile responsive UI layouts with
@@ -118,7 +124,7 @@ const resume = () => {
         </div>
 
 
-        {/* Personal Experience */}
+        {/* Personal Experience
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold italic'>
@@ -129,7 +135,7 @@ const resume = () => {
           <p className='py-1 italic'>Code Commerce - Youtube Channel (2021 - Current)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-              In 2021 I started “Code Commerce”, a YouTube channel focused on
+              In 2023 I started “Code Commerce”, a YouTube channel focused on
               sharing what I’m learning in web development, specifically
               front-end development.
             </li>
@@ -141,12 +147,12 @@ const resume = () => {
           </ul>
         </div>
 
-        {/*  */}
+        {/*
         <h5 className='text-center underline text-[18px] py-4'>
           Other Professional Experience
         </h5>
       
-        {/* Experience */}
+        {/* Experience
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold'>CITY OF SHERMAN, TX</span>
@@ -181,7 +187,7 @@ const resume = () => {
               Support, among others.
             </li>
           </ul>
-        </div>
+  </div>*/}
       </div>
     </>
   );

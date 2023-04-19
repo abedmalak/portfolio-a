@@ -17,8 +17,8 @@ const media = () => {
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
-          <h2 className='py-2'>Media</h2>
-          <h3>Next JS / Sanity / Stripe</h3>
+          <h2 className='py-2'>Mediapp</h2>
+          <h3>MERN stack</h3>
         </div>
       </div>
 
@@ -27,10 +27,9 @@ const media = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            This app was built using Next JS and is hosted on Vercel. Users are 
-            able to search for steel products that they are interested in. You will
-            be able to view available products and products out of stock as well as the specific.
-            Content can me changed and updated in real time by the inventory manager
+          With our app, you can connect with friends, family, and like-minded individuals from around the world in a safe and user-friendly environment. Share photos, videos, and thoughts with ease, and stay up-to-date with the latest trends and news in your community.
+
+Our app also features advanced privacy and security settings, so you can rest assured that your personal information is protected. And with customizable profiles, you can express your unique personality and connect with others who share your interests.
           </p>
           <a
             href='https://github.com/abedmalak/mediapp'
