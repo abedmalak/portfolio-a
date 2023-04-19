@@ -19,7 +19,6 @@ export default function Home() {
     <About />
     <Skills />
     <Projects />
-    <Feedbacks />
     <Contact />
     </div>
   )

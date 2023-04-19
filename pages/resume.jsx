@@ -27,7 +27,7 @@ const resume = () => {
               <FaLinkedinIn size={20} style={{ marginRight: '1rem' }} />
             </a>
             <a
-              href='https://github.com/fireclint'
+              href='https://github.com/abedmalak'
               target='_blank'
               rel='noreferrer'
             >
