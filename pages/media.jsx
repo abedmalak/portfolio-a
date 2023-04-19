@@ -1,10 +1,10 @@
 import Image from 'next/image';
 import React from 'react';
-import netflixImg from '../public/assets/projects/netflix.jpg';
+import Media from '../public/assets/projects/media.png';
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
-const netflix = () => {
+const media = () => {
   return (
     <div className='w-full'>
       <div className='w-screen h-[50vh] relative'>
@@ -13,12 +13,12 @@ const netflix = () => {
           className='absolute z-1'
           layout='fill'
           objectFit='cover'
-          src={netflixImg}
+          src={Media}
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
-          <h2 className='py-2'>Netflix App</h2>
-          <h3>React JS / Tailwind / Firebase</h3>
+          <h2 className='py-2'>Media</h2>
+          <h3>Next JS / Sanity / Stripe</h3>
         </div>
       </div>
 
@@ -27,23 +27,20 @@ const netflix = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            I built this application in React JS and is hosted on GitHub pages.
-            This app features user authentication with firebase as well as the
-            firestore cloud storage database. This application is pulling movie
-            data from an the IMDB movie API and displaying different categories.
-            It features horizontal sliding and a featured selection. The
-            useContext hook is also being implemented for app-wide state
-            management.
+            This app was built using Next JS and is hosted on Vercel. Users are 
+            able to search for steel products that they are interested in. You will
+            be able to view available products and products out of stock as well as the specific.
+            Content can me changed and updated in real time by the inventory manager
           </p>
           <a
-            href='https://github.com/fireclint/netflix-react-tailwind'
+            href='https://github.com/abedmalak/mediapp'
             target='_blank'
             rel='noreferrer'
           >
             <button className='px-8 py-2 mt-4 mr-8'>Code</button>
           </a>
           <a
-            href='https://fireclint.github.io/netflix-react-tailwind/'
+            href='https://abedmedia.netlify.app/'
             target='_blank'
             rel='noreferrer'
           >
@@ -67,7 +64,10 @@ const netflix = () => {
                 <RiRadioButtonFill className='pr-1' /> Firebase
               </p>
               <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> IMDB API
+                <RiRadioButtonFill className='pr-1' /> Google API
+              </p>
+              <p className='text-gray-600 py-2 flex items-center'>
+                <RiRadioButtonFill className='pr-1' /> Zillow API
               </p>
             </div>
           </div>
@@ -80,4 +80,4 @@ const netflix = () => {
   );
 };
 
-export default netflix;
+export default media;
