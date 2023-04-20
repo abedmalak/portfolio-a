@@ -18,7 +18,7 @@ const ecommerce = () => {
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
           <h2 className='py-2'>Ecommerce</h2>
-          <h3>Next JS / Stripe / NoSQL</h3>
+          <h3>Next JS / Node JS / NoSQL</h3>
         </div>
       </div>
 
@@ -27,10 +27,9 @@ const ecommerce = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            This app was built using Next JS and is hosted on Vercel. Users are 
-            able to search for steel products that they are interested in. You will
-            be able to view available products and products out of stock as well as the specific.
-            Content can me changed and updated in real time by the inventory manager
+          Customers could easily browse products, add items to their cart, and securely checkout.
+Increased average order value by 30%, and increased customer satisfaction by 70%.
+Inventory can be created, updated, and deleted, by authorized administrators without the need of knowledge of a single line of code
           </p>
           <a
             href='https://github.com/abedmalak/ssfront'
@@ -52,13 +51,19 @@ const ecommerce = () => {
             <p className='text-center font-bold pb-2'>Technologies</p>
             <div className='grid grid-cols-3 md:grid-cols-1'>
               <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> React
+                <RiRadioButtonFill className='pr-1' /> Next JS
+              </p>
+              <p className='text-gray-600 py-2 flex items-center'>
+                <RiRadioButtonFill className='pr-1' /> Node JS
+              </p>
+              <p className='text-gray-600 py-2 flex items-center'>
+                <RiRadioButtonFill className='pr-1' /> NoSQL
               </p>
               <p className='text-gray-600 py-2 flex items-center'>
                 <RiRadioButtonFill className='pr-1' /> Tailwind
               </p>
               <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Javascript
+                <RiRadioButtonFill className='pr-1' /> Stripe
               </p>
             </div>
           </div>
