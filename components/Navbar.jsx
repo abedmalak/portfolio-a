@@ -102,8 +102,8 @@ const Navbar = () => {
                 <a>
                   <Image
                     src={NavLogo}
-                    width='150'
-                    height='90'
+                    width='100'
+                    height='80'
                     alt='/'
                   />
                 </a>
