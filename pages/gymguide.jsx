@@ -27,11 +27,11 @@ const gymguide = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-          Introducing the revolutionary gym guide app that will transform the way you exercise! With our app, you'll have access to a comprehensive library of exercises, complete with instructional videos that demonstrate proper form and technique.
+          Introducing the revolutionary gym guide app that will transform the way you exercise! With our app, you will have access to a comprehensive library of exercises, complete with instructional videos that demonstrate proper form and technique.
 
-Whether you're a beginner or a seasoned athlete, this app has everything you need to achieve your fitness goals. With detailed descriptions of each exercise and targeted muscle groups, you can tailor your workouts to meet your specific needs and see results faster than ever before.
+Whether you are a beginner or a seasoned athlete, this app has everything you need to achieve your fitness goals. With detailed descriptions of each exercise and targeted muscle groups, you can tailor your workouts to meet your specific needs and see results faster than ever before.
 
-Our app also features an intuitive interface that makes it easy to navigate and find the exercises you need. And with our integration of YouTube videos, you can watch demonstrations of each exercise to ensure you're doing them correctly.
+Our app also features an intuitive interface that makes it easy to navigate and find the exercises you need. And with our integration of YouTube videos, you can watch demonstrations of each exercise to ensure you are doing them correctly.
 
 Say goodbye to boring and repetitive workouts, and hello to a new level of fitness with our gym guide app. Download it now and start your journey to a stronger, healthier you!
           </p>

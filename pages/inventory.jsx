@@ -29,9 +29,9 @@ const inventory = () => {
           <p>
             Full stack inventory management application, follow the steps in order to use it. Step 1: click on the Manager Demo button and login with User: abedtestuser@gmail.com with Password: test123.
              Step 2: open the Viewer demo
-             Step 3: open the Manager demo side by side with the viewer demo and change the inventory
+             Step 3: open the Manager demo side by side with the viewer demo and change the inventory.
 
-             "In case you were not able to follow the steps, you can watch the video for the clear demonstration"
+            In case you were not able to follow the steps, you can watch the video for the clear demonstration
           </p>
         
           <a
