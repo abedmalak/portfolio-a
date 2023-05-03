@@ -20,11 +20,11 @@ const resume = () => {
           <h2 className='text-center'>ABDUL RAHMAN MALAK</h2>
           <div className='flex'>
             <a
-              href='https://www.linkedin.com/in/Abdul-Rahman-Malak-68a540263'
+              href='https://www.linkedin.com/in/Abdul-Rahman-Malak-55072024a/'
               target='_blank'
               rel='noreferrer'
             >
-              <FaLinkedinIn size={20} style={{ marginRight: '1rem' }} />
+              <FainIn size={20} style={{ marginRight: '1rem' }} />
             </a>
             <a
               href='https://github.com/abedmalak'

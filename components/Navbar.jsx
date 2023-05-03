@@ -160,7 +160,7 @@ const Navbar = () => {
               </p>
               <div className='flex items-center justify-between my-4 w-full sm:w-[80%]'>
                 <a
-                  href='https://www.linkedin.com/in/Abdul-Rahman-Malak-68a540263'
+                  href='https://www.linkedin.com/in/Abdul-Rahman-Malak-55072024a/'
                   target='_blank'
                   rel='noreferrer'
                 >
