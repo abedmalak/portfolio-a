@@ -64,7 +64,7 @@ const inventory = () => {
           </a>
 
           <a
-            href='https://sultansteelmanager.vercel.app/'
+            href='https://www.youtube.com/watch?v=6nhD7vMoYNw'
             target='_blank'
             rel='noreferrer'
           >
