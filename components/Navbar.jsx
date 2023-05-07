@@ -29,6 +29,7 @@ const Navbar = () => {
   }, []);
 
   return (
+    
     <div
       style={{ backgroundColor: `${navBg}` }}
       className={
@@ -88,6 +89,7 @@ const Navbar = () => {
           nav ? 'md:hidden fixed left-0 top-0 w-full h-screen bg-black/70' : ''
         }
       >
+        
         {/* Side Drawer Menu */}
         <div
           className={
